@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80" alt="Profile portrait placeholder" width="160" height="160" style="border-radius:50%; border: 4px solid #7c3aed; box-shadow: 0 12px 32px rgba(124,58,237,0.35);" />
+  <img src="https://raw.githubusercontent.com/humbleUSE/credential-portfolio/main/assets/banner.svg" alt="Portfolio banner" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/humbleUSE/credential-portfolio/main/assets/profile-photo.jpg" alt="Usifo Emmanuel Sunday" width="180" height="180" style="border-radius: 50%; border: 4px solid #7c3aed; box-shadow: 0 16px 40px rgba(124, 58, 237, 0.35);" />
 </div>
 
 <h1 align="center">Usifo Emmanuel Sunday</h1>
@@ -11,9 +15,9 @@
   <img src="https://img.shields.io/badge/Prompt%20Engineering-10b981?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 </p>
 
-<div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #111827 45%, #1d4ed8 100%); padding: 28px 24px; border-radius: 18px; border: 1px solid #334155; margin: 20px 0; box-shadow: 0 24px 60px rgba(15,23,42,0.35);">
-  <p style="color: #e2e8f0; font-size: 18px; line-height: 1.7; margin: 0; max-width: 760px;">
-    I am a learner and technology enthusiast focused on AI-driven workflows, GitHub Copilot, responsible AI, and modern software development. This portfolio captures my Microsoft Learn achievements and makes each credential simple to verify and share.
+<div align="center" style="background: linear-gradient(135deg, #0b1120 0%, #111827 45%, #1e293b 100%); padding: 30px 24px; border-radius: 18px; border: 1px solid #334155; margin: 24px 0; box-shadow: 0 24px 60px rgba(15, 23, 42, 0.35);">
+  <p style="color: #e2e8f0; font-size: 18px; line-height: 1.7; margin: 0; max-width: 820px;">
+    I am a learner and technology enthusiast focused on AI-driven workflows, GitHub Copilot, responsible AI, and modern software development. This public portfolio showcases my Microsoft Learn achievements and makes each certification easy to verify and share.
   </p>
 </div>
 
@@ -33,6 +37,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web_Development-10B981?style=flat-square)
 ![Responsible AI](https://img.shields.io/badge/Responsible_AI-22C55E?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-Tools-1f2937?style=flat-square)
 
 ---
 
@@ -74,7 +80,7 @@ I enjoy learning by building, testing, and documenting practical workflows aroun
 
 ## Verification
 
-All listed achievements below are linked to their official Microsoft Learn public sharing pages. Each link opens directly to the credential for easy validation.
+All listed achievements are linked to their official Microsoft Learn public sharing pages. Each link opens directly to the credential for easy validation.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Portfolio-Verified-blue?style=for-the-badge" alt="Verified portfolio" />
